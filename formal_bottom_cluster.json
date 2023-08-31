@@ -1,0 +1,65 @@
+[
+    {
+        "date": "2022-09-26",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/84954/280.street_img_view26331ce324bbe9.jpg?",
+        "average_temperature": 20.0,
+        "temperature_difference": 10.599999999999998,
+        "cluster": 5
+    },
+    {
+        "date": "2022-09-28",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/85089/280.street_img_view26335318859b49.jpg?20220929151015",
+        "average_temperature": 20.4,
+        "temperature_difference": 10.0,
+        "cluster": 8
+    },
+    {
+        "date": "2021-01-22",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/67974/280.street_img_view2600e2b711cc77.jpg?",
+        "average_temperature": 5.5,
+        "temperature_difference": 1.7999999999999998,
+        "cluster": 1
+    },
+    {
+        "date": "2021-03-17",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/69347/280.street_img_view2605198b663c99.jpg?",
+        "average_temperature": 8.8,
+        "temperature_difference": 15.7,
+        "cluster": 2
+    },
+    {
+        "date": "2021-04-22",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/70439/280.street_img_view26080e4c1bcaa5.jpg?20210422075011",
+        "average_temperature": 20.9,
+        "temperature_difference": 11.4,
+        "cluster": 6
+    },
+    {
+        "date": "2021-05-12",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/70963/280.street_img_view2609b608fe1dbc.jpg?20210512140056",
+        "average_temperature": 22.0,
+        "temperature_difference": 10.8,
+        "cluster": 7
+    },
+    {
+        "date": "2021-06-05",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/71716/280.street_img_view260c059f3152aa.jpg?",
+        "average_temperature": 20.8,
+        "temperature_difference": 8.7,
+        "cluster": 0
+    },
+    {
+        "date": "2020-09-07",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/64099/280.street_img_view25f57224e51d0f.jpg?",
+        "average_temperature": 19.2,
+        "temperature_difference": 3.1000000000000014,
+        "cluster": 4
+    },
+    {
+        "date": "2020-10-14",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/65167/280.street_img_view25f87b7012d3d6.jpg?",
+        "average_temperature": 12.8,
+        "temperature_difference": 9.5,
+        "cluster": 3
+    }
+]
